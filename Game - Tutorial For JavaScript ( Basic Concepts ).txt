@@ -1,0 +1,20 @@
+Game - Tutorial For JavaScript ( Basic Concepts)
+
+
+1)Story -Learning JavaScript ( Basic Concepts )
+
+2)PC & NPC - User(PC)& Bot(NPC)
+
+3) Goal - 	 Goal is to learn the basic concepts of what is JavaScript how to use it.
+
+4) Rules - None for the user but for the game
+
+5) Game Balance - Will be options for choosing age.
+
+6) Game Adaptivity (* Increases by       level*) - As User learns 1 Concept there will be more quizs
+
+7) Chances and Skills - Depends on User Knowledge
+
+8) Feedback (* Type of Warning [       Positive/Negative] ) - Bot will give
+expression.
+ 
